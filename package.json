@@ -1,0 +1,22 @@
+{
+	"name": "cra-template-thaddydore",
+	"version": "1.0.6",
+	"keywords": [
+		"react",
+		"create-react-app",
+		"template"
+	],
+	"description": "thaddydore template for Create React App.",
+	"main": "template.json",
+	"license": "MIT",
+	"engines": {
+		"node": ">=8"
+	},
+	"bugs": {
+		"url": "https://github.com/facebook/create-react-app/issues"
+	},
+	"files": [
+		"template",
+		"template.json"
+	]
+}
