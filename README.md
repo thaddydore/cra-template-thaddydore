@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 cd into desired folder and run the command above to create react-app preinstalled with react-router and bootstrap4.
 
+Visit repo https://github.com/thaddydore/cra-template-thaddydore
+
 ## Available Scripts
 
 In the project directory, you can run:
